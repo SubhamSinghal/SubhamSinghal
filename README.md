@@ -7,6 +7,7 @@ Projects:
 | Projects | Issues | Pull Requests |
 | :--- | :---: | ---: |
 |  [datafusion](https://github.com/apache/datafusion)  | [issues](https://github.com/apache/datafusion/issues?q=is%3Aissue%20author%3ASubhamSinghal) | [merged PRs](https://github.com/apache/datafusion/pulls?q=is%3Amerged+is%3Apr+author%3ASubhamSinghal+) |
+| [airflow](https://github.com/apache/airflow) | [issues](https://github.com/apache/airflow/issues?q=is%3Aissue%20author%3ASubhamSinghal) | [merged PRs](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3ASubhamSinghal+is%3Amerged) |
 
 
 
