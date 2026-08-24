@@ -1,6 +1,15 @@
 ## Hi I'm Subham 👋
 
 I am currently on working on datafusion.
+
+Projects:
+
+| Projects | Issues | Pull Requests |
+| :--- | :---: | ---: |
+|  [datafusion](https://github.com/apache/datafusion)  | [issues](https://github.com/apache/datafusion/issues?q=is%3Aissue%20author%3ASubhamSinghal) | [merged PRs](https://github.com/apache/datafusion/pulls?q=is%3Amerged+is%3Apr+author%3ASubhamSinghal+) |
+
+
+
 <!--
 **SubhamSinghal/SubhamSinghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
